@@ -1,0 +1,6 @@
+[gd_resource type="Environment" format=3 uid="uid://dx4nj1lqilwcv"]
+
+[resource]
+ambient_light_color = Color(1, 1, 1, 1)
+ambient_light_energy = 16.0
+tonemap_exposure = 6.54

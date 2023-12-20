@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bxuw6iko2pmuf"
+path="res://.godot/imported/Echoing Footsteps  HQ Sound Effects-[AudioTrimmer.com].mp3-534fc975eb70d51ca82fd4f6c05e50df.mp3str"
+
+[deps]
+
+source_file="res://Assets/Echoing Footsteps  HQ Sound Effects-[AudioTrimmer.com].mp3"
+dest_files=["res://.godot/imported/Echoing Footsteps  HQ Sound Effects-[AudioTrimmer.com].mp3-534fc975eb70d51ca82fd4f6c05e50df.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
