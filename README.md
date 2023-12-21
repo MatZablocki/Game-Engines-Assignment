@@ -8,7 +8,7 @@ Class Group:TU856
 
 Video:
 
-[![YouTube](https://youtu.be/MKnUTid4pkw)
+[![YouTube](http://img.youtube.com/vi/MKnUTid4pkw/0.jpg)](https://youtu.be/MKnUTid4pkw)
 
 # Description of the project
 The project is a game in which you are placed in a dark maze where you have to explore it to find a button in order to save the world.
