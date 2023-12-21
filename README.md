@@ -8,10 +8,10 @@ Class Group:TU856
 
 Video:
 
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
+[![YouTube](https://youtu.be/MKnUTid4pkw)
 
 # Description of the project
-The project is a gamer in which you are placed in a maze and you have to find different keys to open doors to escape it.
+The project is a game in which you are placed in a dark maze where you have to explore it to find a button in order to save the world.
 
 # Instructions for use
 
@@ -22,85 +22,24 @@ The project is a gamer in which you are placed in a maze and you have to find di
 
 | Class/asset | Source |
 |-----------|-----------|
-| MyClass.cs | Self written |
-| MyClass1.cs | Modified from [reference]() |
-| MyClass2.cs | From [reference]() |
+| room_checker.tscn | Self written |
+| room_corridor_x.tscn | Self written |
+| room_corridor_z.tscn | Self written |
+| room_crossroads.tscn | Self written |
+| X+Z+.tscn | Self written |
+| X-Z-.tscn | Self written |
+| X+Z-.tscn | Self written |
+| X-Z+.tscn | Self written |
 
-# References
-* Item 1
-* Item 2
+
+
 
 # What I am most proud of in the assignment
 
+I am most proud of the atmosphere created in the maze using sound effects, music and lighting.
+
 # What I learned
 
-# Proposal submitted earlier can go here:
+I learned how to work with 3d projects in godot and how important soundtrack is to the immersion of a game.
 
-## This is how to markdown text:
-
-This is *emphasis*
-
-This is a bulleted list
-
-- Item
-- Item
-
-This is a numbered list
-
-1. Item
-1. Item
-
-This is a [hyperlink](http://bryanduggan.org)
-
-# Headings
-## Headings
-#### Headings
-##### Headings
-
-This is code:
-
-```Java
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-So is this without specifying the language:
-
-```
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-This is an image using a relative URL:
-
-![An image](images/p8.png)
-
-This is an image using an absolute URL:
-
-![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
-
-This is a youtube video:
-
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
-
-This is a table:
-
-| Heading 1 | Heading 2 |
-|-----------|-----------|
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
 
